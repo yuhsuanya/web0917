@@ -6,3 +6,9 @@ div.test{
 div.think{ 
   margin-left:630px;
 }
+text123:before {
+  content: "";
+  height: 100%;
+  display: inline-block;
+  vertical-align: middle;
+}
